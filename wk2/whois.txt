@@ -1,0 +1,86 @@
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2028-03-30
+Updated On:2020-03-10
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+
+
+
+Domain:youtube.com
+Registrar:MarkMonitor Inc.
+Registered On:2005-02-15
+Expires On:2022-02-14
+Updated On:2021-01-14
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+
+
+
+Domain:twitch.tv
+Registrar:MarkMonitor Inc.
+Registered On:2009-06-08
+Expires On:2024-06-08
+Updated On:2020-05-13
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns-1450.awsdns-53.org
+ns-1778.awsdns-30.co.uk
+ns-219.awsdns-27.com
+ns-664.awsdns-19.net
+
+
+
+
+Domain:amazon.ca
+Registrar:MarkMonitor International Canada Ltd.
+Registered On:2000-09-19
+Expires On:2024-07-16
+Updated On:2020-07-16
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.p31.dynect.net
+ns2.p31.dynect.net
+pdns1.ultradns.net
+pdns3.ultradns.org
+pdns4.ultradns.org
+pdns5.ultradns.info
+
+
+
+
+Domain:hltv.org
+Registrar:Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA
+Registered On:2002-04-11
+Expires On:2023-04-11
+Updated On:2020-10-17
+Status:ok
+Name Servers:edna.ns.cloudflare.com
+jack.ns.cloudflare.com

@@ -1,0 +1,10 @@
+Pinging 138.197.151.74 with 32 bytes of data:
+Reply from 138.197.151.74: bytes=32 time=14ms TTL=56
+Reply from 138.197.151.74: bytes=32 time=12ms TTL=56
+Reply from 138.197.151.74: bytes=32 time=10ms TTL=56
+Reply from 138.197.151.74: bytes=32 time=11ms TTL=56
+
+Ping statistics for 138.197.151.74:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 10ms, Maximum = 14ms, Average = 11ms

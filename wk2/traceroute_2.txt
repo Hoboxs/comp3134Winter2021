@@ -1,0 +1,13 @@
+Tracing route to 138.197.151.74 over a maximum of 30 hops
+
+  1     2 ms     2 ms     2 ms  router.asus.com [192.168.50.1]
+  2     9 ms    10 ms     9 ms  24-212-207-33.cable.teksavvy.com [24.212.207.33]
+  3     *       13 ms    12 ms  dupont.rcable-tsi.tor.teksavvy.com [104.195.128.42]
+  4    14 ms    11 ms    10 ms  dupont.tsi-rcable.tor.teksavvy.com [104.195.128.41]
+  5    12 ms    11 ms    15 ms  ae4-0-bdr01-tor.teksavvy.com [206.248.155.94]
+  6    11 ms    11 ms    13 ms  digitalocean.ip4.torontointernetxchange.net [206.108.35.15]
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    13 ms    14 ms    15 ms  138.197.151.74
+
+Trace complete.

@@ -1,0 +1,1 @@
+64 bytes from edge-star-mini-shv-01-yyz1.facebook.com (31.13.80.36): icmp_seq=14 ttl=59 time=0.362 ms
