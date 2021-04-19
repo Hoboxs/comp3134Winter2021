@@ -1,0 +1,22 @@
+<html>
+<body>
+<h1>Page Title</h1>
+<form id="userForm">
+ <label>Enter Here:</label>
+ <input type="text" id="userText">
+ <br/>
+ <button type="button" onclick="getUserText()">Submit</button>
+</form>
+<div id="outputDiv">
+
+</div>
+
+<script>
+ function getUserText(){
+  let userInput = document.getElementById("userText").value;
+  let outDiv = document.getElementById("outputDiv");
+  outDiv.innerHTML = userInput;
+ }
+</script>
+</body>
+</html>

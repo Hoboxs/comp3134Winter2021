@@ -1,0 +1,8 @@
+1) What you see on the browser (the issue)
+
+I see an array of filenames from a directory
+
+
+2) What sensitive information is given by this page
+
+This page gives the file structure of the directory and therefore attackers can find what they want easily

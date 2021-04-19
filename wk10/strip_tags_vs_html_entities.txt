@@ -1,0 +1,1 @@
+The stripping tags will santize your data. Therefore the pure html text will print even when taken for the url

@@ -1,0 +1,1 @@
+When we add the confirmation variable, it ensures that the user cant be logged in right away from another page

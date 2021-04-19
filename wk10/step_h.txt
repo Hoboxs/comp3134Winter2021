@@ -1,0 +1,1 @@
+I will mitigate the problem by changing the file into a php file and echo all the header tags and use the php comments instead of html ones

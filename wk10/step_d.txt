@@ -1,0 +1,8 @@
+1) What you see on the browser (the issue)
+
+A warning appears saying there is no directory called "hello"
+
+
+2) What sensitive information is given by this page
+
+It shows the user how the application runs the file. Therefore, the user can now target this problem since they know directory structure

@@ -1,0 +1,8 @@
+1) What you see on the browser (the issue)
+
+I see an array of filenames from a directory including hidden dot files and an html file
+
+
+2) What sensitive information is given by this page
+
+This page provides files that may contain inportant information

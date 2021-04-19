@@ -1,0 +1,11 @@
+1) Navigate to the form and type a valid English word. Write your observations.
+Website returns the dictionary definition of the word I entered. In addition, the website also displays the word in the url.
+
+2) Navigate to the URL and type an invalid English word after the `/browse/` section of the URL. Write your observations
+Website returns a message saying there are no results and suggests other words. The invalid word is still in the url.
+
+3) Navigate to the form and type the following text: <script>alert(%27hello%27)</script> Write your observations.
+Nothing shows in regards to the the script. Only promotional things show based on the script
+
+4) Navigate to the URL and type the following text: <script>alert(%27hello%27)</script> after the `term=` section of the URL. Write your observations.
+Nothing different compared to question 3.
